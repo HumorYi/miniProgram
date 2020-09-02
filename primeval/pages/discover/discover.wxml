@@ -1,0 +1,5 @@
+<!--pages/discover/discover.wxml-->
+<view class="container">
+  <text>发现</text>
+  <button bindtap="jumpMinePage" type="primary">进入我的页</button>
+</view>

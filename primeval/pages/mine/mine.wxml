@@ -1,0 +1,5 @@
+<!--pages/mine/mine.wxml-->
+<view class="container">
+  <text>我的</text>
+  <button bindtap="backIndex" type="primary">返回首页</button>
+</view>

@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  <text>首页</text>
+  <button bindtap="jumpDiscoverPage" type="primary">进入发现页</button>
+  <button open-type="contact" type="primary">联系客服</button>
+  <button bindtap="scanCode" type="primary">识别或扫描二维码</button>
+  <button bindtap="openLocation" type="primary">打开地图</button>
+  <button bindtap="chooseLocation" type="primary">获取附近地址</button>
+</view>
